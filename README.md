@@ -1,1 +1,2 @@
 # amazon-sales-analysis
+#The Amazon Sales Analysis project aims to uncover valuable insights from sales data, helping businesses optimize pricing strategies, improve customer engagement, and enhance decision-making. By leveraging data analytics and visualization techniques, the project provides a comprehensive view of sales performance, trends, and key influencing factors. The dataset consists of thousands of sales transactions, capturing essential attributes like product categories, actual prices, discounted prices, ratings, and customer feedback.
